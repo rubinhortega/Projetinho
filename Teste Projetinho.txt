@@ -1,1 +1,37 @@
 Oi mundo do professor
+
+Comandos de dev Web para rodar o servidor
+
+
+
+Abir o ambiente virtual: navegue até a pasta "django" e digite:
+
+python -m virtualenv venv
+
+cd venv
+
+cd Scripts
+
+Activate.bat
+
+cd .. (para voltar a pasta venv)
+
+
+cd.. (para voltar a pasta django)
+
+
+cd feriados (para entrar na pasta feriados)
+
+
+rodar o servidor:
+
+
+python manage.py runserver
+
+
+
+rodar o teste:
+
+python manage.py test
+
+
